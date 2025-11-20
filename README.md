@@ -23,6 +23,12 @@ Thank you once again for everything. I will ensure a smooth and complete transit
 Warm regards,
 [Your Name]
 Employee ID (if needed)
+
+
+
+
+
+
 resignation-website
 ├── src
 │   ├── index.html          # Main homepage of the resignation website
