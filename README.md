@@ -1,10 +1,28 @@
-# Resignation Website
+# Resignation letter
 
-This project is a static website designed to help users create and display resignation letters. It includes templates, styles, and scripts to facilitate the process of writing and formatting resignation letters.
+formal resination letter
 
 ## Project Structure
 
 ```
+
+Subject: Resignation – Last Working Day [Your Last Working Day]
+
+Dear [Manager’s Name],
+
+I hope you are doing well. I am writing to formally resign from my position at Access Healthcare, with my last working day being [date as per notice period].
+
+I have genuinely enjoyed working here and I’m grateful for the exposure I received across Union Auth, Union BIA, Naples BIA, and FMC. Being involved across these processes helped me learn a great deal—from retro to prior—and I have consistently tried to upskill myself with every opportunity. These experiences have shaped my professional growth, and I truly appreciate the trust and support given to me.
+
+I would also like to express my sincere thanks to Haneef Sir for his guidance and support throughout my time here. A special mention to Naved as well — we are the only two left from the very beginning, and we were the only ones who started in Pune as part of the Ensemble pilot project. Working together from day one, helping and supporting each other, has been a meaningful part of my journey.
+
+Despite all this, I’ve reached a stage where I no longer feel clear growth ahead. I have tried to stretch myself, but I feel I’ve hit a saturation point, and future opportunities seem too distant unless something exceptional changes. Because of this, I believe it is the right time for me to move forward and explore new paths for my career.
+
+Thank you once again for everything. I will ensure a smooth and complete transition of my responsibilities.
+
+Warm regards,
+[Your Name]
+Employee ID (if needed)
 resignation-website
 ├── src
 │   ├── index.html          # Main homepage of the resignation website
